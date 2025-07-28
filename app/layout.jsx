@@ -4,9 +4,9 @@
 // import './globals.css'
 
 // export const metadata: Metadata = {
-//   title: 'v0 App',
-//   description: 'Created with v0',
-//   generator: 'v0.dev',
+//   title: 'Resume Builder',
+//   description: 'Created with ❤️ and AI',
+//   generator: 'the.colossalmonk',
 // }
 
 // export default function RootLayout({
@@ -36,9 +36,9 @@ import './globals.css'
 
 // Metadata is not typed here since JSX doesn't support TS types
 export const metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'Resume Builder',
+  description: 'Created with ❤️ and AI',
+  generator: 'the.colossalmonk',
 }
 
 export default function RootLayout({ children }) {
